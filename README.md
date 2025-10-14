@@ -15,26 +15,6 @@ The project was developed collaboratively by a team of four students under the s
 ---
 
 
-## 💽 Installation Guide
-
-Below are two installation paths, depending on your operating system.
-
----
-
-### 🪟 **Windows Installation (Executable)**
-
-This method is recommended for end users who just want to run the app.
-
-#### ✅ Prerequisites
-- Windows 10 or later  
-- No need to install Python — the executable already includes it  
-
-#### 📦 Steps
-
-1. **Download the release**  
-   Get the file `Culturama.exe` from the project repository in Culturama/application_exe.
-
-
 ## ⚙️ Current Features
 
 ✅ **Functional application** — fully operational executable built with PyInstaller  
