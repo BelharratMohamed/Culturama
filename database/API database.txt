@@ -1,0 +1,17 @@
+API database
+
+Livres: 
+	-https://openlibrary.org/developers/api
+	-https://developers.google.com/books
+
+Films et séries:
+	-https://developers.themoviedb.org/3
+	-http://www.omdbapi.com/
+
+Jeux-vidéos:
+	-https://rawg.io/apidocs
+	-https://api-docs.igdb.com/
+
+Œuvres d'Art:
+	-https://github.com/harvardartmuseums/api-docs
+	-https://www.rijksmuseum.nl/en/api

@@ -1,0 +1,327 @@
+id,nom,id_parent
+1,"Histoire et Patrimoine",NULL
+10,"Histoire Régionale et Locale",1
+100,"Guerre et Conflits",10
+1000,"Génocides",100
+10000,"Palestinien",1000
+10001,"Congolais",1000
+10002,"Armenien",1000
+1001,"Guerres Mondiales",100
+10010,"Première Guerre Mondiale",1001
+10011,"Seconde Guerre Mondiale",1001
+1002,"Guerres Civiles",100
+10020,"Sécession",1002
+10021,"Espagnol",1002
+10022,"Syrie",1002
+1003,"Révolutions,100
+10030,"Américaine",1003
+10031,"Française",1003
+1004,"Guerre Froide",100
+1005,"Guerres religieuses",100
+10050,"Croisades",1005
+10051,"Conflit au Moyen-Orient",1005
+101,"Colonisation et Décolonisation",10
+1010,"Antique",101
+1011,"Médiévale",101
+1012,"Européenne moderne",101
+102,"Histoire des Pays",10
+1020,"Europe",102
+1021,"Asie",102
+1022,"Afrique",102
+1023,"Amérique",102
+1024,"Océanie",102
+11,"Patrimoine Bâti",1
+110,"Monuments Historiques",11
+1100,"Monuments Civils",110
+11000,"Palais",1100
+11001,"Bâtiments Administratifs",1100
+11002,"Universités et Grandes Ecoles",1100
+11003,"Symbole nationaux",1100
+1101,"Monuments Commémoratifs",110
+11010,"Arc de Triomphe",1101
+11011,"Stèles et plaques",1101
+11012,"Colonnes Commémoratives",1101
+11013,"Statues et Monuments aux morts",1101
+1102,"Monuments Militaires",110
+11020,"Châteaux fort",1102
+11021,"Forteresses",1102
+11022,"Rempart et Murailles",1102
+11023,"Bunkers et blockhaus",1102
+111,"Culte Religieux",11
+1110,"Islam",111
+1111,"Polythéisme",111
+1112,"Christianisme",111
+1113,"Judaisme",111
+12,"Personnages Historiques",1
+120,"Dirigeants Politique",12
+121,"Artistes et écrivains",12
+122,"Chefs Militaires",12
+123,"Philosophes",12
+13,"Périodes Historique",1
+130,"Préhistoire",13
+131,"Antiquité",13
+132,"Renaissance",13
+133,"Moyen-âge",13
+134,"Epoque Moderne",13
+135,"Epoque Contemporaine",13
+2,"Sciences",NULL
+20,"Sciences Fondamentales",2
+200,"Mathématique",20
+2000,"Algèbre",200
+2001,"Géométrie",200
+2002,"Analyse",200
+2003,"Probabilité et Statistiques",200
+201,"Physique",20
+2010,"Mécanique",201
+2011,"Thérmodynamique",201
+2012,"Electromagnétisme",201
+2013,"Quantique",201
+2014,"Astrophysique",201
+202,"Chimie",20
+2020,"Générale",202
+2021,"Organique",202
+2022,"Industrielle",202
+2023,"Analystique",202
+203,"Biologie",20
+2030,"Génétique",203
+2031,"Ecologie",203
+2032,"Zoologie",203
+2033,"Botanique",203
+204,"Astronomie",20
+2040,"Cosmologie",204
+2041,"Planétologie",204
+21,"Sciences Appliqués",2
+210,"Ingénierie",21
+2100,"Génie Eléctrique",210
+2101,"Génie Mécanique",210
+2102,"Robotique",210
+211,"Médecine",21
+2110,"Anatomie",211
+2111,"Neurologie",211
+2112,"Cardiologie",211
+212,"Informatique",21
+2120,"IA",212
+2121,"Cybersécurité",212
+2122,"Développement Logiciel",212
+2123,"Science des Données",212
+2124,"Réseaux et systèmes",212
+22,"Sciences de l'Environnement",2
+23,"Sciences Humaines et Sociales",2
+230,"Economie",23
+231,"Anthropologie",23
+232,"Psychologie",23
+233,"Sociologie",23
+24,"Sciences de la Terre et de l'Univers",2
+240,"Géologie",24
+241,"Climatologie",24
+242,"Géographie",24
+25,"Grandes Découvertes et Inventions",2
+250,"Grands Scientifiques et Inventeurs",25
+251,"Révolutions Scientifiques",25
+3,"Technologie",NULL
+30,"Robotique",3
+300,"Industriel",30
+301,"Humanoïde",30
+31,"Biotechnologie",3
+310,"Médicale",31
+311,"Génétique",31
+312,"Synthétique",31
+32,"Informatique",3
+320,"IA",32
+321,"Cybersécurité",32
+322,"Programmation et Développement",32
+323,"Base de données",32
+324,"Quantique",32
+33,"Transport et Mobilité",3
+330,"Aérien et spatial",33
+331,"Terrestre",33
+3310,"Transport en commun",331
+3311,"Voiture",331
+3312,"Vélo",331
+332,"Maritime",33
+34,"Energie et Environnement",3
+340,"Renouvelable",34
+341,"Climat",34
+342,"Fossile",34
+4,"Nature",NULL
+40,"Animaux",4
+400,"Sauvages",40
+401,"Domestiques",40
+402,"Menacés",40
+403,"Invertébrés",40
+4030,"Insecte",403
+4031,"Arachnides",403
+4032,"Crustacés",403
+4033,"Mollusques",403
+4034,"Annélides",403
+404,"Vertébrés",40
+4040,"Mammifères",404
+4041,"Oiseaux",404
+4042,"Poissons",404
+4043,"Reptiles",404
+4044,"Amphibiens",404
+41,"Plantes",4
+410,"Arbres",41
+411,"Fleurs",41
+42,"Ecosystèmes",4
+420,"Forêt",42
+421,"Désert",42
+422,"Marin",42
+423,"Montagne",42
+43,"Protection et Conservation",4
+430,"Réserves Naturelles",43
+431,"Espèces Protégées",43
+432,"Changement Climatique",43
+5,"Sports",NULL
+50,"Sports collectifs",5
+500,"Football",50
+5000,"Football à 11",500
+5001,"Football à 5",500
+5002,"Football freestyle",500
+501,"Basketball",50
+5010,"Streetbasket",501
+5011,"NBA",501
+502,"Handball",50
+503,"Rugby",50
+504,"Volleyball",50
+51,"Sports individuels",5
+510,"Tennis",51
+511,"Tennis de table",51
+512,"Athlétisme",51
+52,"Sports de motricité",5
+520,"Automobile",52
+521,"Moto",52
+53,"Sport aquatique",5
+530,"Natation",53
+531,"Plongée",53
+532,"Surf",54
+533,"Aviron",53
+534,"Polo aquatique",53
+54,"Sport de combat",5
+540,"Boxe",54
+541,"MMA",54
+542,"Lutte",54
+543,"Arts martiaux",54
+5430,"Judo",543
+5431,"Karaté",543
+5432,"Taekwondo",543
+55,"Sport d'hiver",5
+550,"Ski",55
+551,"Snowboard",55
+552,"Luge",55
+553,"Bobsleigh",55
+554,"Biathlon",55
+555,"Hockey sur glace",55
+556,"Escalade sur glace",55
+6,"Arts",NULL
+60,"Arts visuels",6
+600,"Peinture",60
+6000,"Peinture à huile",600
+6001,"Peinture acrylique",600
+6002,"Fresque",600
+6003,"Aquarelle",600
+601,"Dessin",60
+6010,"Crayon",601
+6011,"Encre",601
+6012,"Fusain",601
+602,"Sculpture",60
+6020,"Sculpture sur pierre",602
+6021,"Sculpture de bois",602
+6022,"Modelage",602
+603,"Photographie",60
+604,"Cinéma",60
+6040,"Fiction",604
+6041,"Documentaire",604
+6042,"Animation",604
+605,"BD et Illustration",60
+6050,"Manga",605
+6051,"Comics",605
+6052,"Roman graphique",605
+606,"Art numérique",60
+61,"Arts interactifs et immersifs",6
+610,"Jeu vidéo",61
+6100,"Jeu narratif",610
+6101,"Jeu en monde ouvert",610
+611,"Réalité virtuelle",61
+62,"Arts du spectacle",6
+620,"Théâtre",62
+6200,"Tragédie",620
+6201,"Comédie",620
+6202,"Théâtre expérimental",620
+621,"Danse",62
+6210,"Danse classique",621
+6211,"Danse contemporaine",621
+6212,"Danse urbaine",621
+622,"Musique",62
+6220,"Musique classique",622
+6221,"Musique contemporaine",622
+6222,"Musique électronique",622
+623,"Cirque",62
+624,"Opéra et Comédie musicale",62
+63,"Arts littéraires",6
+630,"Poésie",63
+6300,"Poésie classique",630
+6301,"Poésie contemporaine",630
+6302,"Slam",630
+631,"Roman",63
+6310,"Roman historique",631
+6311,"Roman science-fiction",631
+632,"Théâtre littéraire",63
+6320,"Théâtre classique",632
+6321,"Théâtre contemporain",632
+633,"Essai et Philosophie",63
+6330,"Philosophie antique",633
+6331,"Philosophie moderne",633
+64,"Arts appliqués et artisanat",6
+640,"Design",64
+6400,"Design graphique",640
+6401,"Design industriel",640
+6402,"Design textile",640
+641,"Mode",64
+6410,"Haute couture",641
+6411,"Prêt-à-porter",641
+642,"Architecture",64
+6420,"Architecture classique",642
+6421,"Architecture contemporaine",642
+643,"Artisanat",64
+7,"Jeunesse",NULL
+70,"Littérature jeunesse",7
+700,"Contes et Fables",70
+701,"Romans jeunesse",70
+7010,"Premières lectures",701
+7011,"Romans pour pré-adolescents",701
+7012,"Romans pour adolescents",701
+702,"BD et mangas",70
+7020,"Mangas",702
+7021,"Comics",702
+703,"Livres audio",70
+7030,"Histoire racontées pour les petits",703
+7031,"Podcasts narratifs pour enfants",703
+704,"Education et apprentissage",70
+7040,"Divertissement et Activités",704
+70400,"Jeux interactifs",7040
+704000,"Quiz éducatifs",70400
+704001,"Escape games culturels",70400
+704002,"Jeux de logique et casse-têtes",70400
+70401,"Evenements et Actualités pour jeunes",7040
+704010,"Festivals et salons du livre jeunesse",70401
+704011,"Expositions adaptées aux enfants",70401
+704012,"Conférences et ateliers interactifs",70401
+704013,"Concours et Défis créatifs",70401
+8,"Voyage et culture",NULL
+80,"Traditions et patrimoines",8
+81,"Gastronomie du monde",8
+82,"Festivals et événements culturels",8
+820,"Célébrations religieuses et locales",82
+83,"Artisanat et savoir-faire",8
+830,"Métiers d’art et traditions manuelles",83
+831,"Objets artisanaux emblématiques",83
+84,"Coutumes et folklore",8
+840,"Danses et musiques traditionnelles",84
+841,"Légendes et contes populaires",84
+842,"Tenues vestimentaires traditionnelles",84
+85,"Photographie et carnets de voyage",8
+86,"Expressions et proverbes du monde",8
+860,"Proverbes et citations typiques",86
+861,"Expressions drôles et insolites",86
+87,"Conseils pour les voyageurs",8
