@@ -86,7 +86,7 @@ It is **open-source**, and the code can be freely used, modified, and shared for
 
 ---
 
-### 🖼️ Screenshots (to be added)
+### 🖼️ Screenshots
 
 **Home Screen**
 ![Home Screen](images/home.png)
