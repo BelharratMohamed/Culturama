@@ -67,7 +67,7 @@ Several parts can still be **refined, expanded, and optimized**, both technicall
 |------|------|
 | **Mohamed Belharrat** | Interface development |
 | **[Ilian Deqqaq](https://github.com/idb240)** | Database design & integration |
-| **Simeon Takenne-Mekem** | Algorithm implementation |
+| **Simeon Takenne Mekem** | Algorithm implementation |
 | **Inès Meslem** | Algorithm design & testing |
 | **Raphaël Braud-Mussi** | Project supervisor |
 
